@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8E8EB039-2663-4868-A7A8-3D733E82387C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>It's A Zoo in There</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EF4F48355336E67194B7391A396CC847C526BB81</key>
+		<string>https://bitbucket.org/LiYecheng/ios-app-development-assignments.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>It's A Zoo/It's A Zoo in There.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EF4F48355336E67194B7391A396CC847C526BB81</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/LiYecheng/ios-app-development-assignments.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EF4F48355336E67194B7391A396CC847C526BB81</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EF4F48355336E67194B7391A396CC847C526BB81</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Assignments</string>
+		</dict>
+	</array>
+</dict>
+</plist>
